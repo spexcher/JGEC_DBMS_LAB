@@ -17,7 +17,7 @@ This repository contains the Database Management System (DBMS) assignment for Ja
 - **Subject:** Database Management System (DBMS)
 - **Institution:** Jalpaiguri Government Engineering College
 - **Course:** B.Tech in Computer Science and Engineering OR Information Technology
-- **Instructor:** Dr. Dipak Kumar Kole (DKK)
+- **Instructor:** Dr. Subhash Barman and Sombhunath Patyanayak Sir.
 - **Semester:** [Could be any from 3rd to 6th]
 
 ### Objectives
@@ -31,7 +31,7 @@ This repository contains the Database Management System (DBMS) assignment for Ja
 ## Technologies Used
 - **Database Management System:** MySQL, PostgreSQL
 - **Programming Language:** SQL
-- **IDE:** MySQL Workbench, DBeaver, or any other SQL editor
+- **IDE:** MySQL Workbench, MySQL Shell, or any other SQL editor
 
 ## How to Run the Code
 1. Clone this repository to your local machine:
