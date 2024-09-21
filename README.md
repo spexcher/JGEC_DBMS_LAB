@@ -36,16 +36,16 @@ This repository contains the Database Management System (DBMS) assignment for Ja
 ## How to Run the Code
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/spexcher/DBMS_Lab.git
+    git clone https://github.com/spexcher/JGEC_DBMS_LAB.git
     ```
 2. Navigate to the project directory:
     ```bash
     cd DBMS_Lab
     ```
 3. Open your SQL IDE (MySQL Workbench, DBeaver, etc.).
-4. Import the SQL script provided in the repository (`dbms_lab.sql`):
+4. Import the SQL script provided in the repository (`file.sql`):
     ```bash
-    source path_to_sql_file/dbms_lab.sql
+    source path_to_sql_file/file.sql
     ```
 5. Execute the SQL script to create the tables and insert sample data.
 6. Write and execute the required queries for the assignment.
