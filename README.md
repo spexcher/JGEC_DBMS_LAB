@@ -40,7 +40,7 @@ This repository contains the Database Management System (DBMS) assignment for Ja
     ```
 2. Navigate to the project directory:
     ```bash
-    cd DBMS_Lab
+    cd JGEC_DBMS_LAB
     ```
 3. Open your SQL IDE (MySQL Workbench, DBeaver, etc.).
 4. Import the SQL script provided in the repository (`file.sql`):
